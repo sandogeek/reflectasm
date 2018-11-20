@@ -4,6 +4,9 @@
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.esotericsoftware/reflectasm/badge.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.esotericsoftware%22%20AND%20a%3Areflectasm)
 
 Please use the [ReflectASM discussion group](http://groups.google.com/group/reflectasm-users) for support.
+## Change
+
+Use sun.misc.Unsafe to support access private member of a class.
 
 ## Overview
 
